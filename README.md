@@ -152,7 +152,7 @@ industry-research-crew/
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/industry-research-crew.git
+git clone https://github.com/zq15884603727zq-bit/industry-research-crew.git
 cd industry-research-crew
 ```
 
